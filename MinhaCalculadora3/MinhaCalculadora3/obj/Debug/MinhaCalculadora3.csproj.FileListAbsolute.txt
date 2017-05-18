@@ -1,0 +1,12 @@
+h:\users\usuario\documents\visual studio 2015\Projects\MinhaCalculadora3\MinhaCalculadora3\bin\Debug\MinhaCalculadora3.exe.config
+h:\users\usuario\documents\visual studio 2015\Projects\MinhaCalculadora3\MinhaCalculadora3\bin\Debug\MinhaCalculadora3.exe
+h:\users\usuario\documents\visual studio 2015\Projects\MinhaCalculadora3\MinhaCalculadora3\bin\Debug\MinhaCalculadora3.pdb
+h:\users\usuario\documents\visual studio 2015\Projects\MinhaCalculadora3\MinhaCalculadora3\obj\Debug\MinhaCalculadora3.csprojResolveAssemblyReference.cache
+h:\users\usuario\documents\visual studio 2015\Projects\MinhaCalculadora3\MinhaCalculadora3\obj\Debug\MinhaCalculadora3.Form1.resources
+h:\users\usuario\documents\visual studio 2015\Projects\MinhaCalculadora3\MinhaCalculadora3\obj\Debug\MinhaCalculadora3.Properties.Resources.resources
+h:\users\usuario\documents\visual studio 2015\Projects\MinhaCalculadora3\MinhaCalculadora3\obj\Debug\MinhaCalculadora3.csproj.GenerateResource.Cache
+h:\users\usuario\documents\visual studio 2015\Projects\MinhaCalculadora3\MinhaCalculadora3\obj\Debug\MinhaCalculadora3.exe
+h:\users\usuario\documents\visual studio 2015\Projects\MinhaCalculadora3\MinhaCalculadora3\obj\Debug\MinhaCalculadora3.pdb
+h:\Users\Usuario\Documents\Visual Studio 2015\Projects\MinhaCalculadora\MinhaCalculadora3\bin\Debug\MinhaCalculadora3.exe.config
+h:\Users\Usuario\Documents\Visual Studio 2015\Projects\MinhaCalculadora\MinhaCalculadora3\obj\Debug\MinhaCalculadora3.exe
+h:\Users\Usuario\Documents\Visual Studio 2015\Projects\MinhaCalculadora\MinhaCalculadora3\obj\Debug\MinhaCalculadora3.pdb
