@@ -195,6 +195,7 @@
             // 
             this.btn_total.BackColor = System.Drawing.Color.SteelBlue;
             this.btn_total.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btn_total.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.btn_total.Location = new System.Drawing.Point(297, 331);
             this.btn_total.Name = "btn_total";
             this.btn_total.Size = new System.Drawing.Size(182, 82);
